@@ -62,6 +62,8 @@ int main (void){
 
     // Petlja koja se vrti za sve brojeve koji su u intervalu od a do b
     for (int i = a; i<=b; i++){
+
+        // Ukoliko funkcija 'is_prime_number' i funkcija 'contains_base_two_in_base_three' vraćaju TRUE, ispisuje taj broj
         if (is_prime_number(i) && contains_two_in_base_three(i)){
             printf("Broj %d je prost i ima cifru 2 u tenarnom brojnom sistemu.\n", i);
         }
