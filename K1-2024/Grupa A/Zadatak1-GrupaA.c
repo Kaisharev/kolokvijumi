@@ -21,7 +21,7 @@ int is_prime_number (int number){
     
     //Ukoliko je broj manji od dva, on se ne smatra prostim.
 
-    if (number <=2) return 0;
+    if (number < 2) return 0;
 
     /*
         Provjerava da li postoji djelioc datog broja. 
