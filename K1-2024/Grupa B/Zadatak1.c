@@ -21,7 +21,7 @@
 
 
 int is_prime(int number){
-    // Ukoliko je broj <=2, on nije prost.
+    // Ukoliko je broj < 2, on nije prost.
     if (number < 2) return 0;
 
     for (int i = 2; i*i<=number; i++){
