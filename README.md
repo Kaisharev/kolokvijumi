@@ -10,7 +10,8 @@ Univerziteta u Banjoj Luci.
 
 Trenutno se u repozitorijumu nalaze rješeni zadaci sa:
 
-- Prvi kolokvijum
+1. Prvi kolokvijum
+   
         - 2023
             - Grupa A
                 - 1. Zadatak
