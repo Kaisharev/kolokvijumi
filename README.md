@@ -10,6 +10,20 @@ Univerziteta u Banjoj Luci.
 
 Trenutno se u repozitorijumu nalaze rješeni zadaci sa:
 
-- Prvog Kolokvijuma 2023
-- Prvog Kolokvijuma 2022
+- Prvi kolokvijum
+        - 2023
+            - Grupa A
+                - 1. Zadatak
+                - 2. Zadatak
+            - Grupa B
+                - 1. Zadatak
+                - 2. Zadatak
+        - 2022
+            - Grupa A
+                - 1. Zadatak
+                - 2. Zadatak
+            - Grupa B
+                - 1. Zadatak
+                - 2. Zadatak
+
 
