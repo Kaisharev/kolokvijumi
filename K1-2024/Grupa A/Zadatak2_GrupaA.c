@@ -36,6 +36,15 @@ float power_of_number (int number, int power){
     return pow;
 }
 
+/*
+    Funkcija koja računa faktorijel broja.
+    Kao parametre uzima cijelobrojni broj
+    i vraća vrijednost faktorijela.
+
+    Funkcija iterira kroz petlju onoliko puta
+    kolika je vrijednost broja koji faktorišemo,
+    i vrijednost factoriel_value množi sa iteratorom.
+*/
 float factoriel_of_number (int number){
     int factoriel_value=1;
     for (int i =1; i<=number; i++){
