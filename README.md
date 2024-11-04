@@ -26,5 +26,12 @@ Trenutno se u repozitorijumu nalaze rješeni zadaci sa:
             - Grupa B
                 - 1. Zadatak
                 - 2. Zadatak
+        - 2021
+            - Grupa A
+                - 1. Zadatak
+                - 2. Zadatak
+            - Grupa B
+                - 1. Zadatak
+                - 2. Zadatak                
 
 
